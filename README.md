@@ -1,17 +1,47 @@
-# BlueSky - Life Management Tools
+# BlueSky — Life Management Tools
 
 A sovereign-cloud alternative to NextCloud — self-hosted or cloud-hosted, with zero footprint on your devices.
 
+![BlueSky Web](docs/screenshots/bluesky-web-home.png)
+
 ## Overview
 
-BlueSky is a self-hosted personal productivity platform with 18 integrated modules covering tasks, email, calendar, documents, photos, recipes, finance, health tracking, security, and more.
+BlueSky is a self-hosted personal productivity platform with 14 integrated modules covering tasks, email, calendar, documents, photos, recipes, finance, health tracking, security, and more.
 
 ## Key Features
 
 - **Self-hosted sovereignty** — deploy with Docker, HTTPS reverse proxy, and Tailscale. Your data never leaves your infrastructure
 - **Zero-footprint web client** — works on any device including mobile. Delete the bookmark and nothing exists on your phone
-- **Native desktop client** — Qt6/C++ cross-platform app for Linux, Windows, and macOS. Swift for Apple coming soon
-- **18 modules** — Tabula (tasks), Epistula (email), Vitae (health), Pecunia (finance), Imago (photos), Bibliotheca (books), Culina (recipes), Archivum (documents), Officina (office suite), Praesidium (security), Cognitio (AI), Spectacula (media), Portae (remote access), Tempestas (weather), and more
+- **Native desktop client** — Qt6/C++ cross-platform app for Linux, Windows, and macOS
+
+## Modules
+
+| Module | Description |
+|--------|-------------|
+| **Tabula** | Productivity — Calendar, Lists, Notes, Contacts |
+| **Epistula** | Communications — Email, Mail, Packages |
+| **Vitae** | Health — Blood Pressure, Glucose, Weight, SpO2 |
+| **Pecunia** | Finance — Ledger, Budgets, Reports, Bills |
+| **Imago** | Photos — Gallery, Albums, Upload, Faces |
+| **Bibliotheca** | Books — Library, Browse, Audiobooks |
+| **Culina** | Recipes — Recipes, Pantry, Meal Plans |
+| **Archivum** | Documents — Archive, Files, Scan, Cloud |
+| **Officina** | Office — Documents, New Document, NAS |
+| **Praesidium** | Security — Passwords, 2FA, Keys, Audit |
+| **Cognitio** | AI — Intelligence Tools |
+| **Spectacula** | Media — Movies, TV Shows, Music |
+| **Portae** | Access Portal — Remote Desktop, SSH, VNC |
+| **Tempestas** | Weather — Current, Forecast, History, Alerts |
+
+## Desktop Client
+
+Qt6/C++ native application with sidebar navigation and full module support.
+
+![BlueSky Desktop](docs/screenshots/bluesky-qt-home.png)
+
+### Bibliotheca — Book Library
+
+![Bibliotheca](docs/screenshots/bluesky-qt-library.png)
 
 ## Architecture
 
