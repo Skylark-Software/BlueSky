@@ -39,6 +39,10 @@ Qt6/C++ native application with sidebar navigation and full module support.
 
 ![BlueSky Desktop](docs/screenshots/bluesky-qt-home.png)
 
+### Epistula — Email Client
+
+![Epistula](docs/screenshots/bluesky-qt-email.png)
+
 ### Bibliotheca — Book Library
 
 ![Bibliotheca](docs/screenshots/bluesky-qt-library.png)
