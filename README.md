@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/screenshots/bluesky-logo.svg" alt="BlueSky" width="350">
+</p>
+
 # BlueSky — Life Management Tools
 
 A sovereign-cloud alternative to NextCloud — self-hosted or cloud-hosted, with zero footprint on your devices.
@@ -62,3 +66,9 @@ In active development. Not yet open source.
 ## License
 
 Copyright 2025-2026 Skylark Software LLC. All Rights Reserved.
+
+---
+
+<p align="center">
+  <img src="docs/screenshots/skylark-software-logo.svg" alt="Skylark Software" width="200">
+</p>
