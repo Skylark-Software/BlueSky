@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/bluesky-logo.svg" alt="BlueSky" width="350">
+  <img src="docs/screenshots/bluesky-logo.svg" alt="BlueSky" width="465">
 </p>
 
 # BlueSky — Life Management Tools
@@ -70,5 +70,5 @@ Copyright 2025-2026 Skylark Software LLC. All Rights Reserved.
 ---
 
 <p align="center">
-  <img src="docs/screenshots/skylark-software-logo.svg" alt="Skylark Software" width="200">
+  <img src="docs/screenshots/skylark-software-logo.svg" alt="Skylark Software" width="400">
 </p>
